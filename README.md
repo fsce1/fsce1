@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fsce1 (or ash!)
+- 👋 Hi, I’m @fsce1 (or fsce!)
 - C# Unity implementation
 - I make mods for H3VR
 
